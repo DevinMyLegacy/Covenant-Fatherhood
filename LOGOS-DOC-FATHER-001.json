@@ -1,0 +1,510 @@
+{
+  "document_id": "LOGOS-DOC-FATHER-001",
+  "document_title": "Covenant Fatherhood: The Seven Torah Pillars of Parental Formation",
+  "document_version": "1.0",
+  "document_class": "ministry_doctrine | household_governance",
+  "issued_by": "LOGOS Governance Systems Inc.",
+  "covenant_protocol": "COVENANT-PROTOCOL-001 (radical transparency, evidence-required claims, no dark patterns)",
+
+  "intent_block": {
+    "intent_id": "INT-FATHER-2025-001",
+    "title": "Form a covenant father who transfers the knowledge of the Lord to the next generation",
+    "problem_statement": "Modern fathering has been hollowed into provision and proximity. A father may live in the house and never govern it; he may feed his children and never teach them; he may be present in the room and absent from their formation. The result is a generation that does not know what its parents believe, what God has done, or why the household exists. The Torah refuses this drift. It commands fathers to command their households after them.",
+    "authority": {
+      "requested_by": "The Lord, by direct command to Abraham and to Israel (Gen 18:19; Deut 6:4-9)",
+      "authorized_by": "Scripture, ratified through Christ (Eph 6:4; 1 Tim 3:4-5)",
+      "source_channel": "Torah + apostolic confirmation",
+      "date_requested": "perpetual covenant"
+    },
+    "constraints": [
+      "Must not provoke children to anger or exasperation (Eph 6:4).",
+      "Must not outsource discipleship to church, school, or media as the primary formation source.",
+      "Must not be performative in public while absent in private. The home is the first audit surface.",
+      "Must operate at the speed of the child, not the speed of the father's preference.",
+      "Must align with the spouse as co-parent where present; must not weaponize children against the other parent."
+    ],
+    "non_goals": [
+      "This doctrine will not produce a flawless child. Outcomes belong to God; faithfulness belongs to the father.",
+      "This doctrine will not replace the local church, but will not subordinate household discipleship to it either.",
+      "This doctrine will not impose a single denominational liturgy; it imposes a covenant rhythm."
+    ],
+    "success_criteria": [
+      "When a child asks 'what does this mean,' a substantive answer exists and is given (Ex 12:26-27).",
+      "Children honor their parents because the parents are honorable (Ex 20:12; Lev 19:2-3).",
+      "Daily discipleship is occurring in the ordinary rhythms of life, not reserved for Sundays (Deut 6:7).",
+      "The works of God in the family's history are remembered and spoken aloud across generations (Deut 4:9-10).",
+      "The home is experienced as shelter, not storm (Isa 32:2; cross-ref The 90 Day Man, Day 32 and Day 83).",
+      "The father can stand under audit by his spouse, a trusted brother, and his pastor without manufactured answers."
+    ],
+    "sensitivity_level": "critical",
+    "linked_policies": [
+      "COVENANT-PROTOCOL-001",
+      "LOGOS-STD-GOV-001",
+      "LOGOS-DEF-FEAR-001"
+    ],
+    "linked_compliance_controls": [
+      "TORAH.GEN.18.19",
+      "TORAH.EXOD.12.24-27",
+      "TORAH.EXOD.20.12",
+      "TORAH.LEV.19.2-3",
+      "TORAH.DEUT.4.9-10",
+      "TORAH.DEUT.6.4-9",
+      "TORAH.DEUT.11.18-21",
+      "NT.EPH.6.4",
+      "NT.1TIM.3.4-5"
+    ]
+  },
+
+  "recon_block": {
+    "recon_required": true,
+    "recon_summary": "Surveyed the Torah parenting corpus and the recorded outcomes of fathers in Scripture. The pattern is clear: fathers who commanded their households were honored; fathers who knew of evil under their roof and would not restrain it lost their houses; fathers who interceded daily for their children carried them under covering they did not see. The seven anchor passages form the doctrinal spine. The named precedents form the audit log.",
+    "similar_cases": [
+      {
+        "case_id": "BIBLE-FATHER-ABRAHAM",
+        "description": "Abraham was chosen specifically so that he would command his children and household after him to keep the way of the Lord by doing righteousness and justice (Gen 18:19).",
+        "outcome": "success",
+        "key_lessons": [
+          "Election carries a parenting mandate. Being chosen is not for private benefit.",
+          "Commanding the household is the qualifying condition, not a downstream bonus.",
+          "Righteousness and justice are the substance of what is transferred, not merely religious vocabulary."
+        ]
+      },
+      {
+        "case_id": "BIBLE-FATHER-ELI",
+        "description": "Eli the priest knew of his sons' contempt for the Lord's offering and the women at the tent and rebuked them only with words. He did not restrain them. His house was cut off (1 Sam 2:12-36; 1 Sam 3:13).",
+        "outcome": "failure",
+        "key_lessons": [
+          "A father who knows and will not act is judged for the knowing.",
+          "Words without restraint are not discipline; they are theater.",
+          "Position in ministry does not exempt a man from household audit."
+        ]
+      },
+      {
+        "case_id": "BIBLE-FATHER-DAVID",
+        "description": "David, a man after God's heart, did not discipline Amnon for the sin against Tamar and did not govern Absalom's path toward rebellion (2 Sam 13-18). The cost was years of household war.",
+        "outcome": "failure",
+        "key_lessons": [
+          "Personal closeness to God does not automatically translate into household governance.",
+          "Unaddressed sin in the home metastasizes into political and generational damage.",
+          "A father's silence is a verdict the children will read correctly even if no one names it."
+        ]
+      },
+      {
+        "case_id": "BIBLE-FATHER-JOB",
+        "description": "Job rose early in the morning and offered burnt offerings for each of his children, 'for Job said, It may be that my sons have sinned, and cursed God in their hearts' (Job 1:5). 'Thus did Job continually.'",
+        "outcome": "success",
+        "key_lessons": [
+          "Daily intercession for children is itself a form of fathering.",
+          "The covering a father provides is largely invisible to the children at the time.",
+          "Consistency ('continually') matters more than intensity in any one event."
+        ]
+      },
+      {
+        "case_id": "BIBLE-FATHER-MANOAH",
+        "description": "Manoah, father of Samson, asked the angel of the Lord: 'how shall we order the child, and how shall we do unto him?' (Judges 13:12). He sought instruction before the child arrived.",
+        "outcome": "mixed",
+        "key_lessons": [
+          "Seeking instruction in how to raise a child is itself an act of faithful fathering.",
+          "Right inquiry does not guarantee an obedient child. Outcomes belong to God.",
+          "A father may do his part and still grieve his son's choices."
+        ]
+      }
+    ],
+    "risk_surface": [
+      "Provocation: harshness, sarcasm, contempt, comparing children to siblings or to the father's own younger self.",
+      "Absence: physical, emotional, or attentional. Phone-fathering counts as absence.",
+      "Outsourcing: assuming the church, school, sports league, or curriculum carries what only the father can carry.",
+      "Hypocrisy: a teaching that the father will not himself obey under audit.",
+      "Performative spirituality: a household that looks devotional from the outside and is barren on the inside.",
+      "Control disguised as covering: enforcing outcomes without forming the will.",
+      "Withholding: silence used as authority, affection used as a reward, instruction never given.",
+      "Drift through fatigue: the father knows what to do, intends to do it, and does not."
+    ],
+    "opportunities": [
+      "Transfer of spiritual memory: children grow up able to name what God has done in their family by generation.",
+      "Embedded discipleship: covenant truth saturates the household environment until it is the air the children breathe.",
+      "Generational compounding: the children of a covenant father begin their own fathering one full lap ahead.",
+      "Audit-readiness: the home becomes a place where a trusted outsider can be invited in without staging.",
+      "Honor that does not require demand: parental authority that does not need to be enforced because it is recognizable."
+    ]
+  },
+
+  "governance_block": {
+    "lifecycle_stage": "genesis",
+    "mode": "genesis",
+    "drift_policy": {
+      "on_drift_detected": "escalate",
+      "escalation_contact": "spouse + trusted brother + pastor (three-witness audit)",
+      "drift_tolerance": "low",
+      "self_audit_permitted": false,
+      "rationale": "A father cannot self-audit his fathering. Drift is named by those who live under his covering or who have authority to speak honestly into his life."
+    }
+  },
+
+  "task_plan": {
+    "overall_strategy": "Build the father along seven Torah pillars in order. Each pillar is a formation subtask with its own evidence, drift flags, and weekly review. The pillars are cumulative: identity and authority first, then ritual and instruction, then daily and saturated rhythm. The father is never declared complete; he is declared faithful in a given season.",
+    "subtasks": [
+      {
+        "subtask_id": "FATHER-ST-01",
+        "title": "Receive the parenting mandate: command your household after you",
+        "description": "Internalize that the father has been chosen for this household, not merely assigned to it. Establish the conviction that righteousness and justice in the home are the father's first jurisdiction. This precedes any specific practice.",
+        "torah_anchor": "Genesis 18:19",
+        "principle": "Biblical parenting is not passive. It forms a household culture of righteousness, justice, and obedience.",
+        "mode": "genesis",
+        "dependencies": [],
+        "tools_required": [
+          "scripture",
+          "journal",
+          "uninterrupted time"
+        ],
+        "inputs_expected": [
+          "the father's current understanding of his calling to his household",
+          "any inherited fathering pattern (from the father's own father, for or against)"
+        ],
+        "outputs_expected": [
+          "written conviction statement: 'I have been chosen to command this household after me in the way of the Lord.'",
+          "named jurisdiction: which souls are under this father's covering by name"
+        ],
+        "evidence_to_capture": [
+          "journal entry naming the mandate",
+          "spoken acknowledgment to spouse (where present)",
+          "first prayer of intercession by name for each child"
+        ],
+        "compliance_relevance": [
+          "TORAH.GEN.18.19",
+          "COVENANT-PROTOCOL-001"
+        ],
+        "risk_level": "high",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "treating fathering as a role one performs rather than a jurisdiction one carries",
+            "deferring the mandate to the spouse"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-02",
+        "title": "Build the rituals that answer the question 'what does this mean'",
+        "description": "Establish redemptive rituals in the household — observed meals, observed Sabbath, observed prayer, observed remembrance of God's acts — such that children naturally ask what they mean, and the father is ready to answer. The Passover model: ritual provokes inquiry; inquiry receives doctrine.",
+        "torah_anchor": "Exodus 12:24-27",
+        "principle": "Children need rituals, stories, and answers that explain redemption.",
+        "mode": "blueprint",
+        "dependencies": ["FATHER-ST-01"],
+        "tools_required": [
+          "scripture",
+          "calendar / rhythm document",
+          "the family table"
+        ],
+        "inputs_expected": [
+          "current household rhythms (audit of what is already happening)",
+          "the family's redemption story (how God has worked in this household specifically)"
+        ],
+        "outputs_expected": [
+          "documented household rhythm: at minimum weekly Sabbath observance, weekly family worship, daily prayer at a fixed point",
+          "prepared answers to the three most likely questions a child will ask about each ritual"
+        ],
+        "evidence_to_capture": [
+          "the rhythm document itself",
+          "a log of questions children have actually asked and how they were answered",
+          "any ritual the father initially fumbled and corrected"
+        ],
+        "compliance_relevance": [
+          "TORAH.EXOD.12.24-27",
+          "TORAH.LEV.19.2-3"
+        ],
+        "risk_level": "medium",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "ritual without explanation (form without doctrine)",
+            "explanation without ritual (doctrine without form)",
+            "rituals that become performative when guests are present"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-03",
+        "title": "Carry parental authority worthy of honor",
+        "description": "Honor flows toward authority that is honorable. The father's task is not to demand honor but to be the kind of authority that honor naturally attaches to: truthful, governed, present, faithful. Honor is a covenant outcome, not a behavioral target. Cross-reference The 90 Day Man, Week 1-2 (the governed inner man) and Week 5 (household before platform).",
+        "torah_anchor": "Exodus 20:12",
+        "principle": "God places weight on family order. Children are trained to honor parental authority, and parents must carry that authority faithfully.",
+        "mode": "construction",
+        "dependencies": ["FATHER-ST-01"],
+        "tools_required": [
+          "scripture",
+          "self-examination",
+          "spouse + trusted brother as audit"
+        ],
+        "inputs_expected": [
+          "honest assessment of where the father is honorable and where he is not",
+          "named patterns the children currently see in the father"
+        ],
+        "outputs_expected": [
+          "a list of named corrections the father is undertaking in his own conduct",
+          "a clear standard of household conduct that the father himself meets first"
+        ],
+        "evidence_to_capture": [
+          "before-and-after testimony from the spouse",
+          "any repair conversation initiated with a child after the father fell short",
+          "instances where the father refused to weaponize authority for ego"
+        ],
+        "compliance_relevance": [
+          "TORAH.EXOD.20.12",
+          "NT.EPH.6.4",
+          "NT.1TIM.3.4-5"
+        ],
+        "risk_level": "high",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "demanding honor while not modeling honor toward the father's own parents",
+            "confusing fear with respect",
+            "using volume as authority"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-04",
+        "title": "Establish holiness in the home: reverence, rest, and family order",
+        "description": "Holiness begins in the home. Reverence for God, observance of Sabbath, and the right ordering of mother, father, and children together form the holiness pattern of Leviticus 19. The father is the steward of this order; he does not own it.",
+        "torah_anchor": "Leviticus 19:2-3",
+        "principle": "Holiness begins in the home. Reverence, rest, worship, and family order are connected.",
+        "mode": "construction",
+        "dependencies": ["FATHER-ST-02", "FATHER-ST-03"],
+        "tools_required": [
+          "scripture",
+          "the family calendar",
+          "the home itself"
+        ],
+        "inputs_expected": [
+          "current state of household reverence (how God is spoken of)",
+          "current state of rest (is there a real Sabbath, or only a tired Sunday)",
+          "current state of order (does each person know their place under God in this house)"
+        ],
+        "outputs_expected": [
+          "a Sabbath practice the household actually keeps",
+          "household speech standard: how God's name is used, how the spouse is spoken to, how the children are addressed"
+        ],
+        "evidence_to_capture": [
+          "Sabbath log (what was kept, what was broken, what was repaired)",
+          "any moment the father corrected himself for irreverent speech in the home",
+          "the children's own developing instinct for reverence (recorded as it appears)"
+        ],
+        "compliance_relevance": [
+          "TORAH.LEV.19.2-3",
+          "TORAH.EXOD.20.12"
+        ],
+        "risk_level": "medium",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "weaponizing Sabbath as a rule rather than receiving it as rest",
+            "reverence performed in public, mocked or absent in private",
+            "order enforced by coercion rather than formed by example"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-05",
+        "title": "Transfer spiritual memory to the next generation",
+        "description": "Speak aloud what God has done — in Scripture and in this household specifically. Children and grandchildren are to know the works of God by being told, repeatedly, by name. Memory that is not spoken is memory that will die in one generation.",
+        "torah_anchor": "Deuteronomy 4:9-10",
+        "principle": "Parents are guardians of spiritual memory. What God has done must be transferred generationally.",
+        "mode": "construction",
+        "dependencies": ["FATHER-ST-02"],
+        "tools_required": [
+          "scripture",
+          "the family's testimony record",
+          "ordinary conversation"
+        ],
+        "inputs_expected": [
+          "the father's own catalog of what God has done for him and in his household",
+          "any prior generation's testimony the father is the carrier of"
+        ],
+        "outputs_expected": [
+          "a written or recorded family testimony record, kept current",
+          "regular spoken retelling of God's acts at the family table or in family worship"
+        ],
+        "evidence_to_capture": [
+          "the testimony record itself (versioned)",
+          "instances of children retelling something God has done, in their own words, unprompted",
+          "any moment the father corrected a child's faulty memory of God's work with the true record"
+        ],
+        "compliance_relevance": [
+          "TORAH.DEUT.4.9-10",
+          "TORAH.GEN.18.19"
+        ],
+        "risk_level": "medium",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "telling stories about the father and forgetting to name God in them",
+            "embellishing testimony for effect (covenant protocol violation)",
+            "letting the children's only spiritual memory come from the church, not the home"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-06",
+        "title": "Daily discipleship in the rhythms of life (the Shema pattern)",
+        "description": "Love the Lord with all heart, soul, and strength; teach His words diligently to the children when sitting in the house, walking by the way, lying down, and rising up. Biblical parenting is not a curriculum; it is the discipling of children inside the ordinary rhythms of life. The father teaches by what he notices and what he says about what he notices.",
+        "torah_anchor": "Deuteronomy 6:4-9",
+        "principle": "Biblical parenting is daily discipleship, not occasional religious instruction.",
+        "mode": "deployment",
+        "dependencies": ["FATHER-ST-01", "FATHER-ST-02", "FATHER-ST-05"],
+        "tools_required": [
+          "scripture",
+          "presence",
+          "the willingness to interrupt the father's own preferred pace"
+        ],
+        "inputs_expected": [
+          "the father's actual daily rhythm (not the aspirational one)",
+          "the children's actual daily rhythm (not the parents' assumption of it)"
+        ],
+        "outputs_expected": [
+          "discipleship is happening at four named points: sitting, walking, lying down, rising up",
+          "a working answer to 'what did I teach my children today, and how did I teach it'"
+        ],
+        "evidence_to_capture": [
+          "brief daily note (one or two sentences): what was taught, where, to whom",
+          "any moment the father stopped his own work to disciple a child in the middle of an ordinary task",
+          "patterns the spouse can confirm independently"
+        ],
+        "compliance_relevance": [
+          "TORAH.DEUT.6.4-9",
+          "TORAH.DEUT.11.18-21"
+        ],
+        "risk_level": "high",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "daily discipleship collapsing into a single weekly event",
+            "discipleship becoming lecture rather than conversation",
+            "the father teaching from a script rather than from the moment"
+          ]
+        },
+        "status": "planned"
+      },
+      {
+        "subtask_id": "FATHER-ST-07",
+        "title": "Saturate the household environment with covenant truth",
+        "description": "Lay these words upon the heart; bind them; write them on the doorposts. Children should grow up breathing covenant truth — in what is visible on the walls, what is spoken in the rooms, what is consumed through screens, what is welcomed across the threshold. The father is the steward of the household's atmosphere.",
+        "torah_anchor": "Deuteronomy 11:18-21",
+        "principle": "The Word should saturate the household environment until children grow up breathing covenant truth.",
+        "mode": "deployment",
+        "dependencies": ["FATHER-ST-04", "FATHER-ST-06"],
+        "tools_required": [
+          "scripture",
+          "the physical home",
+          "the household media policy"
+        ],
+        "inputs_expected": [
+          "audit of what enters the home (media, music, guests, conversation)",
+          "audit of what is visibly displayed in the home"
+        ],
+        "outputs_expected": [
+          "a household environment standard: what is welcome, what is not, and why",
+          "covenant truth made visible in at least the central rooms of the home"
+        ],
+        "evidence_to_capture": [
+          "the household environment standard, written and shared with the spouse",
+          "instances where the father refused entry to something that violated the standard, including his own preferences",
+          "the children's own developing instinct for what does and does not belong in their home"
+        ],
+        "compliance_relevance": [
+          "TORAH.DEUT.11.18-21",
+          "TORAH.DEUT.6.4-9"
+        ],
+        "risk_level": "medium",
+        "drift_flags": {
+          "drift_detected": false,
+          "drift_description": "",
+          "drift_severity": "none",
+          "watch_for": [
+            "displaying covenant artifacts while consuming covenant-violating media",
+            "writing the Word on the doorposts but not on the calendar",
+            "enforcing the standard on the children while exempting the father"
+          ]
+        },
+        "status": "planned"
+      }
+    ]
+  },
+
+  "execution_log": {
+    "events": [
+      {
+        "timestamp": "ISO-8601-on-issue",
+        "actor": "father",
+        "subtask_id": "FATHER-ST-01",
+        "event_type": "started",
+        "message": "Mandate received and named in writing. Jurisdiction declared by name for each child and household member under covering.",
+        "evidence_links": []
+      }
+    ]
+  },
+
+  "weekly_review_questions": [
+    "Did I command my household after me this week, or only manage it?",
+    "Did my children ask 'what does this mean' about anything we did, and did I have an answer?",
+    "Am I honorable in the ways I am asking my children to honor me?",
+    "Was there reverence, rest, and order in this house this week?",
+    "Did I speak aloud what God has done — in Scripture and in our family — to my children?",
+    "Did I disciple my children inside the ordinary rhythm of the week, or only at appointed moments?",
+    "Was the atmosphere of my home this week shaped by covenant truth or by drift?"
+  ],
+
+  "scoring_rubric": {
+    "1": "neglected",
+    "2": "unstable",
+    "3": "present but inconsistent",
+    "4": "faithful",
+    "5": "strong and repeatable",
+    "note": "A father cannot govern what he refuses to measure. Scoring is for visibility, not vanity. Source: The 90 Day Man review framework."
+  },
+
+  "lessons_learned": {
+    "summary": "Faithful fathering is the daily, witnessed, covenant transfer of the knowledge of the Lord into the children under one's covering. It cannot be performed; it can only be lived. The seven Torah pillars give the structure; the Spirit gives the life; the home gives the audit surface.",
+    "what_worked": [
+      "Naming the mandate in writing before designing any practice.",
+      "Letting the children's questions drive the doctrine, instead of pre-loading lectures.",
+      "Inviting the spouse and one trusted brother into the audit from the beginning."
+    ],
+    "what_failed": [
+      "Any season where the father attempted to disciple the children before submitting his own inner man (cross-ref The 90 Day Man, Phase 1).",
+      "Rituals built for appearance rather than for inquiry.",
+      "Standards enforced on the children that the father exempted himself from."
+    ],
+    "surprises": [
+      "Daily intercession by name for each child shaped the father at least as much as it covered the child.",
+      "Children's spiritual memory formed faster from witnessed acts than from explained ones.",
+      "Holiness in the home was felt by guests before it was articulated by the household."
+    ],
+    "foresight_updates": [
+      "Before launching any new household practice, audit whether the father will himself sustain it for one year unwitnessed.",
+      "When discipleship feels heavy, return to the Shema rhythm: sit, walk, lie down, rise up — the easiest four points to lose.",
+      "When in drift, escalate to the three-witness audit before attempting self-correction.",
+      "Always record the children's spoken testimony of God's acts in their own words; it is the leading indicator that the transfer is occurring."
+    ]
+  },
+
+  "thesis": "Biblical parenting is covenant transfer: forming children to know the Lord, remember His works, honor His order, walk in holiness, and carry righteousness into the next generation."
+}
